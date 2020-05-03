@@ -1,0 +1,13 @@
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject.csprojAssemblyReference.cache
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\MainWindow.g.cs
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\App.g.cs
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject_MarkupCompile.cache
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\MainWindow.baml
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject.g.resources
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject.Properties.Resources.resources
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject.csproj.GenerateResource.cache
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\bin\Debug\RubiksCubeSolver_SeniorProject.exe.config
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\bin\Debug\RubiksCubeSolver_SeniorProject.exe
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\bin\Debug\RubiksCubeSolver_SeniorProject.pdb
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject.exe
+C:\Users\Matt\Source\Repos\RubiksCubeSolver_SeniorProject\RubiksCubeSolver_SeniorProject\obj\Debug\RubiksCubeSolver_SeniorProject.pdb

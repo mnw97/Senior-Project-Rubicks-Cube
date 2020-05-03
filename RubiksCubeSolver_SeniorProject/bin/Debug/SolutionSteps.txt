@@ -1,0 +1,30 @@
+2020/04/29 03:44:25 
+Rubik's Cube definition
+Front  Up
+White  Red     [Blue   Orange Orange Yellow Yellow Yellow Red    Red   ]
+Blue   Yellow  [Orange Orange Orange Green  Yellow Blue   Blue   Blue  ]
+Red    Yellow  [Green  Green  Red    Red    Yellow White  Red    Red   ]
+Green  Yellow  [White  Orange White  Orange Green  Blue   Blue   White ]
+Orange Yellow  [Blue   Red    Green  White  White  Green  Red    Green ]
+Yellow Orange  [Yellow Yellow Orange Blue   Green  White  White  Yellow]
+Rubik's Cube solution steps
+White Edges. White Blue Edge. Move to position. White, Blue, F', Color: B'
+White Edges. White Red Edge. Move to position. White, Red, F, Color: R
+White Edges. White Orange Edge. Move to position. White, Orange, U L U', Color: W B W'
+White Edges. White Green Edge. Move to position. White, Green, U' R U, Color: W' R W
+White Corners. White Red Green Corner. Rotate and move to position. White, Green, D' R' D' - R, Color: Y' R' Y' - R
+White Corners. White Green Orange Corner. Rotate and move to position. White, Orange, D F D - F', Color: Y O Y - O'
+White Corners. White Blue Orange Corner. Rotate and move to position. White, Blue, D' R' D' - R, Color: Y' O' Y' - O
+White Corners. White Blue Red Corner. Move to position. White, Red, R' D' R, Color: B' Y' B
+Mid Layer Edges. Blue Orange Edge. Move to position (remove first step). Yellow, Orange, R U' R' - U' F' U - F, Color: B Y' B' - Y' O' Y - O
+Mid Layer Edges. Blue Red Edge. Move to position (adjust first step). Yellow, Blue, U' R U' - R' U' F' - U F, Color: Y' R Y' - R' Y' B' - Y B
+Mid Layer Edges. Red Green Edge. Move to position (adjust first step). Yellow, Green, U L' U - L U F - U' F', Color: Y R' Y - R Y G - Y' G'
+Mid Layer Edges. Green Orange Edge. Move to position (adjust first step). Yellow, Orange, U L' U - L U F - U' F', Color: Y G' Y - G Y O - Y' O'
+Yellow Cross. Yellow Red Edge. Move first two yellow faces. Yellow, Green, F R U - R' U' F', Color: G O Y - O' Y' G'
+Yellow Cross. Yellow Blue Edge. Move from L shape to cross. Yellow, Blue, F U R - U' R' F', Color: B Y R - Y' R' B'
+Yellow Corners Position. Yellow Red Green Corner. Rotate 3 corners into position. Yellow, Red, U R' U' - R U L - U' R' U - R L', Color: Y G' Y' - G Y B - Y' G' Y - G B'
+Yellow Corners. Yellow Green Orange Corner. Shuffle three yellow corners. Yellow, Blue, L U L' - U L U2 - L' U2, Color: O Y O' - Y O Y2 - O' Y2
+Yellow Corners. Yellow Green Orange Corner. Rotate 3 yellow corners into their place. Yellow, Blue, R' U' R - U' R' U2 - R U2, Color: R' Y' R - Y' R' Y2 - R Y2
+Yellow Edges. Yellow Red Edge. Rotate 3 edges to position. Yellow, Blue, R2 U R - U R' U' - R' U' R' - U R', Color: R2 Y R - Y R' Y' - R' Y' R' - Y R'
+Cube is Solved
+Total number of steps: 104
